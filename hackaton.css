@@ -287,6 +287,7 @@ header{
 }
 .carousel{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     height: auto;
     background-color: #ffffff;
